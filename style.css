@@ -1,0 +1,19 @@
+#appBg{
+    height: 420px;
+    width: 300px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    
+}
+
+#appBg form{
+    height: 100%;
+    width: 100%;
+    background-color: #000000;
+}
+
+#appBg input[type="textfield"]{
+    
+    width: 97%;
+    
+}
